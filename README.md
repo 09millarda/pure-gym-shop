@@ -6,7 +6,7 @@ https://puregymshop.alistairmillard.me
 ### What?
 This is an eCommerce store made for the technical challenge stage of a Pure Gym job application for a Fullstack Dev position.
 
-The original specification was to create CLI application. As the role was for a fullstack developer I thought it would be more appropriate to show off those skills, hence the website.
+The original specification was to create a CLI application. As the role was for a fullstack developer I thought it would be more appropriate to show off those skills, hence the website.
 
 #### Frontend: React, Typescript and Bootrap for styling <br />
 #### Backend: C#, .NET Core 2.2 <br />
